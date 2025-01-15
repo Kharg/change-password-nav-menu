@@ -1,0 +1,14 @@
+{
+    "name": "Change Password Nav Menu",
+    "description": "Change Password Nav Menu option and entity.",
+    "author": "Andrea Fontana",
+    "php": [
+        ">=8.1"
+    ],
+    "acceptableVersions": [
+        ">=8.4"
+    ],
+    "version": "1.0.0",
+    "skipBackup": true,
+    "releaseDate": "2025-01-16"
+}

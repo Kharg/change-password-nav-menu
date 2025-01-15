@@ -1,0 +1,23 @@
+{
+    "khargExtensions": {
+        "label": "Kharg's Extensions",
+        "itemList": [
+            "__APPEND__",
+            {
+                "url": "#Admin/ChangePasswordNavMenu",
+                "iconClass": "fas fa-key",
+                "keywords": [
+                    "Navbar",
+                    "change password",
+                    "menu",
+                    "kharg",
+                    "extension"
+                ],
+                "label": "ChangePasswordTitle",
+                "description": "ChangePasswordDescription",
+            	"recordView": "change-password:views/admin/settings"
+            }
+        ],
+        "order": 114
+    }
+}

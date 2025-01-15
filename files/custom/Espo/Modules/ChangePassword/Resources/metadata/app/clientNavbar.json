@@ -1,0 +1,12 @@
+{
+    "menuItems": {
+        "changePassword": {
+            "order": 0,
+            "groupIndex": 10,
+            "labelTranslation": "User.labels.Change Password",
+            "handler": "change-password:handlers/navbar-menu",
+            "actionFunction": "changePassword",
+            "configCheck": "!changePasswordMenuItemDisabled"
+        }
+    }
+}
