@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "changePasswordMenuItemDisabled": "Change Password Menu Item Disabled"
+    },
+    "tooltips": {
+        "changePasswordMenuItemDisabled": "Disable Change Password Menu Item"
+    }
+}

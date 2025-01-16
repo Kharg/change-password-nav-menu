@@ -1,0 +1,9 @@
+{
+    "fields": {
+    "changePasswordMenuItemDisabled": {
+          "type": "bool",
+          "default": false,
+          "tooltip": true
+        }
+    }
+}
